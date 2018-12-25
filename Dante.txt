@@ -1,0 +1,3 @@
+print("So bitter is it, death is little more");
+print("But of the good to treat, which there I found,");
+print("Speak will I of the other things I saw there,");

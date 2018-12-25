@@ -1,0 +1,7 @@
+print("So bitter is it, death is little more");
+print("But of the good to treat, which there I found,");
+print("Speak will I of the other things I saw there,");
+
+print("I cannot well repeat how there I entered,");
+print("So full was I of slumber at the moment");
+print("In which I had abandoned the true way.");

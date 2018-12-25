@@ -1,2 +1,4 @@
 Print("some text");
-Print("Midway upon the journey of our life")
+Print("Midway upon the journey of our life");
+Print("I found myself within a forest dark,");
+Print("For the straightforward pathway had been lost.");
